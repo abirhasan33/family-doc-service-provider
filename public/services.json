@@ -1,0 +1,75 @@
+[
+  {
+    "id": 1,
+
+    "name": "Assistant Serjon",
+    "details": {
+      "srt1": "One O.T day",
+      "srt2": "More O.T to paid"
+      
+    },
+    "img": "https://i.ibb.co/kQKzWbP/assistang-Serjon.jpg",
+    "price":45,
+    "regPrice":50
+  },
+  {
+    "id": 2,
+    "name": "Emergency Treatment",
+    "details": {
+      "srt1": "Any kind of emergency",
+      "srt2": "I will go with patient"
+     
+    },
+    "img": "https://i.ibb.co/4m0trk5/emergency.jpg",
+    "price":50,
+    "regPrice":55
+  },
+  {
+    "id": 3,
+    "name": "Online Concultation",
+    "details": {
+      "srt1": "Anykind of problem",
+      "srt2": "Online prescription given"
+      
+    },
+    "img": "https://i.ibb.co/Ybwwst0/online.jpg",
+    "price":60,
+    "regPrice":65
+  },
+  {
+    "id": 4,
+    "name": "Painless Therapy",
+    "details": {
+      "srt1": "Give extra coolness",
+      "srt2": "Thiland Therapy"
+    
+    },
+    "img": "https://i.ibb.co/DCtgpJt/phesiyo-therapy.jpg",
+    "price":70,
+    "regPrice":75
+  },
+  {
+    "id": 5,
+    "name": "Psychological Help    ",
+    "details": {
+      "srt1": "Mental problem solve",
+      "srt2": "Do what i have should "
+      
+    },
+    "img": "https://i.ibb.co/1dfBb6Z/physologicalhelp.jpg",
+    "price":80,
+    "regPrice":85
+  },
+  {
+    "id": 6,
+    "name": "Read Prescription",
+    "details": {
+      "srt1": "Read Other prescription",
+      "srt2": "Provide extra tips and tricks"
+      
+    },
+    "img": "https://i.ibb.co/3sGrvcX/read-Report.jpg",
+    "price":90,
+    "regPrice":99
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "title": "Difference between authorization and authentication",
+    "description1": {
+      "authentication": "Authentication is the process of identifying users and validating who they claim to be. One of the most common and obvious factors to authenticate identity is a password. If the user name matches the password credential, it means the identity is valid, and the system grants access to the user."
+    },
+    "Authorization":"Authorization happens after a user’s identity has been successfully authenticated. It is about offering full or partial access rights to resources like database, funds, and other critical information to get the job done. In an organization, for example, after an employee is verified and confirmed via ID and password authentication, the next step would be defining what resources the employee would have access to"
+  },
+  {
+    "title": "Why are you using firebase? What other options do you have to implement authentication?",
+    "description2":{
+        "ans1":"Firebase can be used when you do not want to spend a lot of time developing your own backend. It can be used for rapid development. I have been using it in my apps in production. You will not have to take care of servers, etc, Google will take care of it for you . If you do not find the need to develop your own backend, Firebase is one of the best options."
+    }
+  },
+  {
+    "title": " "
+  }
+]
